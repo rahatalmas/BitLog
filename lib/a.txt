@@ -1,0 +1,3 @@
+a user can create a bot . and other user can chat with the created bots..
+like person a crated his clone..
+his friends can now chat with the clone...
